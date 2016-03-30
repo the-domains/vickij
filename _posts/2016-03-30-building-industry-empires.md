@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Open Mic Showcase
-datePublished: '2016-03-30T23:37:16.066Z'
-dateModified: '2016-03-30T23:36:44.205Z'
+datePublished: '2016-03-30T23:38:44.140Z'
+dateModified: '2016-03-30T23:37:18.755Z'
 title: Building Industry Empires
+author: []
+sourcePath: _posts/2016-03-30-building-industry-empires.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-03-30-building-industry-empires.md
-published: true
 url: building-industry-empires/index.html
 _type: Article
 
