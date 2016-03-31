@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[VickiJ]]></title>
-        <description><![CDATA[VickiJ]]></description>
-        <link>https://thegrid.ai/vickij/</link>
+        <title><![CDATA[Building Industry Empires]]></title>
+        <description><![CDATA[Building Industry Empires]]></description>
+        <link>http://www.vickij.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 23:38:45 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/vickij/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 23:59:24 GMT</lastBuildDate>
+        <atom:link href="http://www.vickij.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Building Industry Empires]]></title>
             <description><![CDATA[<article><h1>Building Industry Empires</h1><p>Open Mic Showcase</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4a1f19b-7bbc-4a3d-bafa-cadde3c69051.jpg"></article>]]></description>
-            <link>https://thegrid.ai/vickij/building-industry-empires/index.html</link>
+            <link>http://www.vickij.com/building-industry-empires/index.html</link>
             <guid isPermaLink="false">507e711c-602e-486a-a37f-8f4c6f930907</guid>
-            <pubDate>Wed, 30 Mar 2016 23:38:44 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2016 23:58:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
