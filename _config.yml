@@ -1,6 +1,6 @@
 name: VickiJ
 favicon: null
-layout_spectrum: 0.99445
+layout_spectrum: 0.48806
 typography_spectrum: 0.8258812427520752
 title: Building Industry Empires
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0
   saturation: 1
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
